@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SerhiiMiroshnychenko
+- 👋 Hi, I’m @SerhiiMiroshnychenko.
 - 👀 I’m interested in a new job in the IT field.
 - 🌱 I’m currently learning the art of writing code in Python.
 - 💞️ I’m looking to collaborate with like-minded people in interesting projects.
